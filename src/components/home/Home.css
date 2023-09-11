@@ -1,0 +1,40 @@
+.l_home{
+    width: 75vw;
+    height: 100vh;
+    background-color: #F7ECDC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.l_home > 
+img {
+    margin-top: 25vh;
+    width: 35vw;
+    height: 35vh;
+}
+
+.l_home_bottom > 
+img {
+    width: 1.2vw;
+    height: 1.2vw;
+}
+
+.l_home > 
+h1,p {
+    margin: 0;
+    font-weight: 500;
+}
+
+.l_home_bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 10vh;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
